@@ -4,3 +4,4 @@ Example Text
 Example text line 2
 Adding change after adding change to branch 3
 Change 1
+Chnage for branch 3

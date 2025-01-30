@@ -6,4 +6,4 @@ Adding change after adding change to branch 3
 Change 1
 Chnage for branch 3
 Change for issue
-Chnage for fixing and closing through commit
+Change for fixing and closing through commit

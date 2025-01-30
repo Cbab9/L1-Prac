@@ -2,4 +2,5 @@ Change for branch 2
 Change 2
 Example Text
 Example text line 2
+Adding change after adding change to branch 3
 Change 1
